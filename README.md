@@ -11,7 +11,7 @@ A public place to request features and report bugs for the Ecwid (Premium) — S
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
 
 #### File uploads
-If your website is not live, I will likely need the .muse file to be able to identify bug. In these cases, you can easily upload your [.muse file here](http://muse.j-26.com/ep-uploads). I will be the only one that will be able to view the file (other than yourself, obviously).
+If your website is not live, I will likely need the .muse file to be able to identify bug. In these cases, you can easily upload your [.muse file here](https://www.dropbox.com/request/jTLS8SM5TU547RCjpgRN). I will be the only one that will be able to view the file (other than yourself, obviously).
 
 ### Requesting features
 
