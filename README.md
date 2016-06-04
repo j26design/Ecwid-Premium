@@ -1,6 +1,6 @@
-# Ecwid (Premium) — Storefront
+# Ecwid (Premium)
 
-A public place to request features and report bugs for the Ecwid (Premium) — Storefront widget built for Adobe Muse.
+A public place to request features and report bugs for the Ecwid (Premium) widget built for Adobe Muse.
 
 ## Bugs/Features
 
